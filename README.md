@@ -1,3 +1,7 @@
+<img width="1425" alt="Screen Shot 2022-01-27 at 8 02 44 PM" src="https://user-images.githubusercontent.com/92279620/151468841-95411e52-b869-4e60-b059-d9cf946b5329.png">
+
+
+
 # WeatherDashboard
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
 
